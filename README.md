@@ -1,2 +1,2 @@
-# Sistema-de-Gerenciamento-de-um-Museu-Hist-rico
+# Sistema-de-Gerenciamento-de-um-Museu-Histórico
 Sistema de Auto Atendimento
